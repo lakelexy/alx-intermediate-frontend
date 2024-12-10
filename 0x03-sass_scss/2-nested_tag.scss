@@ -1,0 +1,12 @@
+// 3-nested_tag.scss
+
+// Body tag styles
+body {
+  margin: 0px;
+  padding: 0px;
+
+  // Nested p tag styles inside body
+  p {
+    margin: 10px;
+  }
+}
